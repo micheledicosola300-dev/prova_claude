@@ -1,0 +1,11 @@
+{
+  "name": "prova-claude",
+  "owner": { "name": "micheledicosola300-dev" },
+  "plugins": [
+    {
+      "name": "studio-ai",
+      "source": "./plugins/studio-ai",
+      "description": "Automazioni per chi crea video, foto, animazioni e motion graphics con l'IA"
+    }
+  ]
+}

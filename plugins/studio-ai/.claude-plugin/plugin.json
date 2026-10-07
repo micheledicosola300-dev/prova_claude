@@ -1,0 +1,6 @@
+{
+  "name": "studio-ai",
+  "version": "0.1.0",
+  "description": "Automazioni per chi crea video, foto, animazioni e motion graphics con l'IA",
+  "types": "./types/index.d.ts"
+}
